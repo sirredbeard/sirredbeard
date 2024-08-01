@@ -2,7 +2,7 @@
 
 Hello! I am Hayden Barnes. I am an open source community manager and experienced engineering manager.
 
-I am a Microsoft MVP with a focus on Windows Subsystem for Linux. I also lead the AlmaLinux HPC and AI SIG.
+I am a Microsoft MVP with a focus on Windows Subsystem for Linux. I also lead the [AlmaLinux HPC and AI SIG](https://wiki.almalinux.org/sigs/HPCandAI.htmlhttps:/).
 
 I am passionate about:
 
@@ -19,11 +19,6 @@ I also:
 * speak at conferences
 * guest on a variety of podcasts and streams
 * contribute to open source projects
-
-You can also find me at:
-
-* [Twitter](https://x.com/unixterminalhttps:/)
-* [LinkedIn](https://www.linkedin.com/in/thbarnes)
 
 ## Projects
 
