@@ -14,7 +14,8 @@ Hello! I am Hayden Barnes. I am an open source community manager and experienced
 
 I am a Microsoft MVP with a focus on Windows Subsystem for Linux.
 
-<img src="https://github.com/user-attachments/assets/344db775-3d93-4278-ad16-02b65c847c45" width="125"> <img src="https://almalinux.org/images/icon.svg" width="50" />
+&nbsp;<a href="https://mvp.microsoft.com" target="_blank"><img src="https://github.com/user-attachments/assets/344db775-3d93-4278-ad16-02b65c847c45" width="125"></a>&nbsp;
+&nbsp;<a href="https://www.almalinux.org" target="_blank"><img src="https://almalinux.org/images/icon.svg" width="50" /></a>
 
 I lead the [AlmaLinux HPC and AI SIG](https://wiki.almalinux.org/sigs/HPCandAI.html) and the [WSL Community Telegram](https://t.me/+SK14TGZ7O2bYtRyo).
 
@@ -36,7 +37,7 @@ I also:
 
 ## Projects
 
-My projects include:
+My personal projects include:
 
 * maintaining [awesome-wsl](https://github.com/sirredbeard/awesome-wslhttps:/) and [awesome-unix](https://github.com/sirredbeard/awesome-unixhttps:/)
 * helping port Scoop, the Windows package manager, to arm64
@@ -46,6 +47,11 @@ My projects include:
 * later creating [Fedora Remix for WSL](https://https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) and [Pengwin Enterprise](https://github.com/WhitewaterFoundry/Pengwin-Enterprise)
 
 ## Work
+
+<p align="center">
+  &nbsp;<a href="https://github.com/determined-ai/determined" target="_blank"><img src="https://github.com/user-attachments/assets/81bec60e-2e22-45ea-aa8e-54061db99de8" width="200"></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="https://github.com/pachyderm/pachyderm" target="_blank"><img src="https://github.com/user-attachments/assets/7844905d-9a19-4c7d-854b-6343eaea5853" width="150"></a>&nbsp;
+</p>
 
 I am currently the senior open source community manager at [Determined AI](https://www.determined.ai/https:/) and [Pachyderm](https://pachyderm.io/https:/), upstream open source AI/ML projects supported by HPE AI.
 
@@ -59,5 +65,6 @@ I have experience in:
 * building and leading groundbreaking engineering teams
 * Windows dev and administration
 * Linux dev and administration
-* in DevOps and MLOps
+* DevOps and MLOps
+* containers, Kubernetes, virtualization
 * with open source compliance and supply chain security
