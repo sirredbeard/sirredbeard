@@ -1,17 +1,22 @@
-# Hayden Barnes
+<p align="center">
+<h1>Hayden Barnes</h1>
+</p>
 
-<img src="https://github.com/user-attachments/assets/0c976337-da54-4233-b118-36a047d28740" width="400">
+<img src="https://github.com/user-attachments/assets/29b473dd-8365-4617-81b9-a2856c61da28" width="400"><br>
+
+<p align="center">
+  &nbsp;<a href="https://twitter.com/unixterminal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=x&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="https://www.linkedin.com/in/thbarnes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="https://www.instagram.com/redbeardedhayden/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-d3175c?style=for-the-badge&logo=instagram&logoColor=%23ffffff"></a>&nbsp;
+</p>
 
 Hello! I am Hayden Barnes. I am an open source community manager and experienced engineering manager.
 
+I am a Microsoft MVP with a focus on Windows Subsystem for Linux.
+
 <img src="https://github.com/user-attachments/assets/344db775-3d93-4278-ad16-02b65c847c45" width="125"> <img src="https://almalinux.org/images/icon.svg" width="50" />
 
-I am a Microsoft MVP with a focus on Windows Subsystem for Linux. 
-
 I lead the [AlmaLinux HPC and AI SIG](https://wiki.almalinux.org/sigs/HPCandAI.html) and the [WSL Community Telegram](https://t.me/+SK14TGZ7O2bYtRyo).
-
-[![image](https://github.com/user-attachments/assets/08d647f2-6bc8-498d-91d1-e1944801122a)](https://x.com/unixterminal) [![image](https://github.com/user-attachments/assets/eae8cee1-793c-4d80-91ef-b24901210dea)](https://www.linkedin.com/in/thbarnes/) [![image](https://github.com/user-attachments/assets/1f9b47a3-69ad-47ae-88e4-cb737ff65de2)](https://www.instagram.com/redbeardedhayden/)
-
 
 I am passionate about:
 
@@ -48,7 +53,7 @@ Prior to my work on AI/ML at HPE, I was a senior enginering manager at [Rancher 
 
 Before that, I was a developer advocate at Canonical where I focused on Ubuntu on Windows Subsystem for Linux.
 
-I have experience:
+I have experience in:
 
 * building and leading effective results-oriented community teams
 * building and leading groundbreaking engineering teams
