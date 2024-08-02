@@ -2,7 +2,10 @@
 <h1>Hayden Barnes</h1>
 </p>
 
-<img src="https://github.com/user-attachments/assets/29b473dd-8365-4617-81b9-a2856c61da28" width="400"><br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/29b473dd-8365-4617-81b9-a2856c61da28" width="400">
+</p>
+<br>
 
 <p align="center">
   &nbsp;<a href="https://twitter.com/unixterminal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=x&logoColor=%23ffffff"></a>&nbsp;
