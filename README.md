@@ -1,8 +1,17 @@
 # Hayden Barnes
 
+<img src="https://github.com/user-attachments/assets/0c976337-da54-4233-b118-36a047d28740" width="400">
+
 Hello! I am Hayden Barnes. I am an open source community manager and experienced engineering manager.
 
-I am a Microsoft MVP with a focus on Windows Subsystem for Linux. I also lead the [AlmaLinux HPC and AI SIG](https://wiki.almalinux.org/sigs/HPCandAI.htmlhttps:/).
+<img src="https://github.com/user-attachments/assets/344db775-3d93-4278-ad16-02b65c847c45" width="125"> <img src="https://almalinux.org/images/icon.svg" width="50" />
+
+I am a Microsoft MVP with a focus on Windows Subsystem for Linux. 
+
+I lead the [AlmaLinux HPC and AI SIG](https://wiki.almalinux.org/sigs/HPCandAI.html) and the [WSL Community Telegram](https://t.me/+SK14TGZ7O2bYtRyo).
+
+[![image](https://github.com/user-attachments/assets/08d647f2-6bc8-498d-91d1-e1944801122a)](https://x.com/unixterminal) [![image](https://github.com/user-attachments/assets/eae8cee1-793c-4d80-91ef-b24901210dea)](https://www.linkedin.com/in/thbarnes/) [![image](https://github.com/user-attachments/assets/1f9b47a3-69ad-47ae-88e4-cb737ff65de2)](https://www.instagram.com/redbeardedhayden/)
+
 
 I am passionate about:
 
@@ -22,7 +31,7 @@ I also:
 
 ## Projects
 
-My projects have included:
+My projects include:
 
 * maintaining [awesome-wsl](https://github.com/sirredbeard/awesome-wslhttps:/) and [awesome-unix](https://github.com/sirredbeard/awesome-unixhttps:/)
 * helping port Scoop, the Windows package manager, to arm64
