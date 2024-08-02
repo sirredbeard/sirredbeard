@@ -55,7 +55,7 @@ My personal projects include:
 
 I am currently the senior open source community manager at [Determined AI](https://www.determined.ai/https:/) and [Pachyderm](https://pachyderm.io/https:/), upstream open source AI/ML projects supported by HPE AI.
 
-Prior to my work on AI/ML at HPE, I was a senior enginering manager at [Rancher Labs](https://www.rancher.com/https:/), where I focused on internal DevOps, support for Windows Containers on Kubernetes, and documentation.
+Prior to my work on AI/ML at HPE, I was a senior engineering manager at [Rancher Labs](https://www.rancher.com/https:/), where I focused on internal DevOps, support for Windows Containers on Kubernetes, and documentation.
 
 Before that, I was a developer advocate at Canonical where I focused on Ubuntu on Windows Subsystem for Linux.
 
