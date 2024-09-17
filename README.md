@@ -13,9 +13,9 @@
   &nbsp;<a href="https://www.instagram.com/redbeardedhayden/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-d3175c?style=for-the-badge&logo=instagram&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
-Hello! I am Hayden Barnes. I am an open source community manager and experienced engineering manager.
+Hello! I am Hayden Barnes. I am an open source community manager, developer relations professional, and experienced engineering manager.
 
-I am a Microsoft MVP with a focus on Windows Subsystem for Linux.
+I am a Microsoft MVP with a focus on Windows Subsystem for Linux and cross-platform/cross-architecture development.
 
 &nbsp;<a href="https://mvp.microsoft.com" target="_blank"><img src="https://github.com/user-attachments/assets/344db775-3d93-4278-ad16-02b65c847c45" width="125"></a>&nbsp;
 &nbsp;<a href="https://www.almalinux.org" target="_blank"><img src="https://almalinux.org/images/icon.svg" width="50" /></a>
@@ -26,14 +26,14 @@ I am passionate about:
 
 * sustainable open source
 * HPC and AI/ML
-* cross-platform development
+* cross-platform/cross-architecture development
 * [Windows Subsystem for Linux](https://github.com/sirredbeard/awesome-wsl)
-* old [UNIX](https://github.com/sirredbeard/awesome-unixhttps:/)
+* old [UNIX](https://github.com/sirredbeard/awesome-unix)
 
 I also:
 
 * [blog](https://boxofcables.dev/https:/)
-* write [books](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/https:/)
+* write [books](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/)
 * speak at conferences
 * guest on a variety of podcasts and streams
 * contribute to open source projects
@@ -42,11 +42,11 @@ I also:
 
 My personal projects include:
 
-* maintaining [awesome-wsl](https://github.com/sirredbeard/awesome-wslhttps:/) and [awesome-unix](https://github.com/sirredbeard/awesome-unixhttps:/)
+* maintaining [awesome-wsl](https://github.com/sirredbeard/awesome-wsl) and [awesome-unix](https://github.com/sirredbeard/awesome-unix)
 * helping port Scoop, the Windows package manager, to arm64
-* automating submission of GPTScript to [WinGet](https://github.com/gptscript-ai/gptscript/commit/c6fef469163411c55bd32867d94f329ad0d8481d) and [Scoop](https://github.com/ScoopInstaller/Extras/commit/a985c84fa4144185eb25ff0fc71ab0c5cae3abcfhttps:/)
-* developing [wslinternals](https://github.com/sirredbeard/wslinternalshttps:/), a set of tools for WSL power users
-* creating [Pengwin](https://github.com/WhitewaterFoundry/Pengwinhttps:/), the first bespoke Linux distribution optimized for WSL
+* automating submission of GPTScript to [WinGet](https://github.com/gptscript-ai/gptscript/commit/c6fef469163411c55bd32867d94f329ad0d8481d) and [Scoop](https://github.com/ScoopInstaller/Extras/commit/a985c84fa4144185eb25ff0fc71ab0c5cae3abcf)
+* developing [wslinternals](https://github.com/sirredbeard/wslinternals), a set of tools for WSL power users
+* creating [Pengwin](https://github.com/WhitewaterFoundry/Pengwin), the first bespoke Linux distribution optimized for WSL
 * later creating [Fedora Remix for WSL](https://https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) and [Pengwin Enterprise](https://github.com/WhitewaterFoundry/Pengwin-Enterprise)
 
 ## Work
@@ -56,9 +56,9 @@ My personal projects include:
   &nbsp;<a href="https://github.com/pachyderm/pachyderm" target="_blank"><img src="https://github.com/user-attachments/assets/7844905d-9a19-4c7d-854b-6343eaea5853" width="150"></a>&nbsp;
 </p>
 
-I am currently the senior open source community manager at [Determined AI](https://www.determined.ai/https:/) and [Pachyderm](https://pachyderm.io/https:/), upstream open source AI/ML projects supported by HPE AI.
+I am currently the senior open source community manager at [Determined AI](https://www.determined.ai/https:/) and [Pachyderm](https://pachyderm.io/), upstream open source AI/ML projects supported by HPE AI.
 
-Prior to my work on AI/ML at HPE, I was a senior engineering manager at [Rancher Labs](https://www.rancher.com/https:/), where I focused on internal DevOps, support for Windows Containers on Kubernetes, and documentation.
+Prior to my work on AI/ML at HPE, I was a senior engineering manager at [Rancher Labs](https://www.rancher.com/), where I focused on internal DevOps, support for Windows Containers on Kubernetes, and documentation.
 
 Before that, I was a developer advocate at Canonical where I focused on Ubuntu on Windows Subsystem for Linux.
 
