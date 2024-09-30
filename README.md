@@ -32,7 +32,7 @@ I am passionate about:
 
 I also:
 
-* [blog](https://boxofcables.dev/https:/)
+* [blog](https://boxofcables.dev/)
 * write [books](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/)
 * speak at conferences
 * guest on a variety of podcasts and streams
@@ -56,7 +56,7 @@ My personal projects include:
   &nbsp;<a href="https://github.com/pachyderm/pachyderm" target="_blank"><img src="https://github.com/user-attachments/assets/7844905d-9a19-4c7d-854b-6343eaea5853" width="150"></a>&nbsp;
 </p>
 
-I am currently the senior open source community manager at [Determined AI](https://www.determined.ai/https:/) and [Pachyderm](https://pachyderm.io/), upstream open source AI/ML projects supported by HPE AI.
+I am currently the senior open source community manager at [Determined AI](https://www.determined.ai/) and [Pachyderm](https://pachyderm.io/), upstream open source AI/ML projects supported by HPE AI.
 
 Prior to my work on AI/ML at HPE, I was a senior engineering manager at [Rancher Labs](https://www.rancher.com/), where I focused on internal DevOps, support for Windows Containers on Kubernetes, and documentation.
 
