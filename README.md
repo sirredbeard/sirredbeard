@@ -17,7 +17,7 @@
   &nbsp;<a href="https://boxofcables.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=ghost&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
-Hello! I am Hayden Barnes. I am a senior technical program manager, partnership manager, community builder, developer relations professional, and experienced engineering manager. Currently Senior Open Source Partner Manager at [HeroDevs](https://herodevs.com/), where I lead Never-Ending Support (NES) for .NET and do other interesting thing.
+Hello! I am Hayden Barnes. I am a technical product director, partnership manager, community builder, developer relations professional, and experienced engineering manager. Currently Senior Open Source Partner Manager at [HeroDevs](https://herodevs.com/), where I lead Never-Ending Support (NES) for .NET and do other interesting thing.
 
 I am a six-time [Microsoft MVP](https://mvp.microsoft.com) (2020–2025) with a focus on Windows Subsystem for Linux (WSL) and cross-platform/cross-architecture development, and an [Arm Ambassador](https://www.arm.com/resources/education/ambassador-program).
 
