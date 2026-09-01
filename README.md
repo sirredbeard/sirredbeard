@@ -17,9 +17,9 @@
   &nbsp;<a href="https://boxofcables.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=ghost&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
-Hello! I am Hayden Barnes. I am a technical product director, partnership manager, community builder, developer relations professional, and experienced engineering manager. Currently Senior Open Source Partner Manager at [HeroDevs](https://herodevs.com/), where I lead Never-Ending Support (NES) for .NET and do other interesting thing.
+I am Hayden Barnes. I am a technical product director, partnership creator, community builder, developer relations person, and bad engineering manager. I am currently at [HeroDevs](https://herodevs.com/), where I lead Never-Ending Support (NES) for all things .NET, Kubernetes, databases, Linux, and UNIX.
 
-I am a six-time [Microsoft MVP](https://mvp.microsoft.com) (2020–2025) with a focus on Windows Subsystem for Linux (WSL) and cross-platform/cross-architecture development, and an [Arm Ambassador](https://www.arm.com/resources/education/ambassador-program).
+I am a seven-time [Microsoft MVP](https://mvp.microsoft.com) (2020–2027) with a focus on Windows Subsystem for Linux (WSL) and cross-platform/cross-architecture development, and an [Arm Ambassador](https://www.arm.com/resources/education/ambassador-program).
 
 <p align="center">
   &nbsp;<a href="https://mvp.microsoft.com" target="_blank"><img src="https://github.com/user-attachments/assets/344db775-3d93-4278-ad16-02b65c847c45" width="100"></a>&nbsp;
@@ -27,11 +27,12 @@ I am a six-time [Microsoft MVP](https://mvp.microsoft.com) (2020–2025) with a 
 </p>
 
 Previously:
-* Founded **[Whitewater Foundry](https://github.com/WhitewaterFoundry)** - created [Pengwin](https://github.com/WhitewaterFoundry/Pengwin), the first bespoke Linux distro optimized for WSL, featured in the Windows Terminal demo at **Microsoft Build 2019** and covered by *ZDNet* and *The Register*
-* Developer Advocate and Engineering Manager for Ubuntu on WSL at **Canonical** - grew Ubuntu on WSL from 40k to 100k weekly installs
-* Senior Engineering Manager at **Rancher Labs** (now SUSE) - Windows containers on RKE2, documentation, DevOps, IBM Z coordination
-* Community Lead for open source AI/ML at **Determined AI / HPE** - organized ML-at-Scale community conferences and a hackathon with 800+ registrants
-* A lawyer (yes, really - JD from the University of Baltimore, and still admitted to practice)
+
+* Accidentally founded [Whitewater Foundry](https://github.com/WhitewaterFoundry), created [Pengwin](https://github.com/WhitewaterFoundry/Pengwin), the first bespoke Linux distro optimized for WSL, featured in the [Windows Terminal demo](https://www.youtube.com/watch?v=8gw0rXPMMPE) at Microsoft Build 2019 and covered by *ZDNet* and *The Register*
+* Developer Advocate and Engineering Manager for Ubuntu on WSL at Canonical, where I helped grow Ubuntu on WSL from 40k to 100k weekly installs
+* Senior Engineering Manager at Rancher Labs (now part of SUSE) - Windows containers on RKE2, documentation, DevOps, IBM Z coordination
+* Community Lead for open source AI/ML at HPE - organized ML-at-Scale community conferences, hackathons, and led devrel for Determined AI and Pachyderm
+* A lawyer...yes, really, I've got a JD from the University of Baltimore and I'm admitted to practice. I am *a* lawyer, not *your* lawyer, but if your open source project needs some legal advice, I can point you in the right direction
 
 I am passionate about:
 
@@ -44,9 +45,9 @@ I also:
 
 * [Blog](https://boxofcables.dev/) about WSL, .NET, Linux, and cross-platform development
 * [Write](https://www.herodevs.com/blog-authors/hayden-barnes) about .NET security, CVE research, and open source sustainability at HeroDevs
-* Write [books](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/) - author of *Pro Windows Subsystem for Linux* (Apress)
-* Speak at [conferences](#conferences)
-* Founded and organized [WSLConf](https://www.youtube.com/results?search_query=wslconf) - the first community conference dedicated to WSL
+* Wrote a now very outdated [book](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/), *Pro Windows Subsystem for Linux* (Apress)
+* Speak at [conferences](#conferences) sometimes when I am not having a panic attack
+* Founded and organized [WSLConf](https://www.youtube.com/results?search_query=wslconf), the first community conference dedicated to WSL
 * Previously co-hosted the [Linux Downtime](https://linuxdowntime.com/) podcast
 * Appear on [podcasts and streams](#podcasts--media) about Linux, open source, and .NET
 * Lead the [WSL Community Telegram](https://t.me/+SK14TGZ7O2bYtRyo)
@@ -56,7 +57,7 @@ I also:
 
 ## HeroDevs
 
-At [HeroDevs](https://herodevs.com/), I lead .NET Never-Ending Support (NES), providing long-term security patches for end-of-life .NET versions.
+At [HeroDevs](https://herodevs.com/), I lead product and technical direction for a large part of the Never-Ending Support (NES) portfolio, providing long-term security patches for post-end-of-life .NET, databases, Kubernetes and cloud native components, databases, Linux, and Unix.
 
 ## Awesome Lists
 
